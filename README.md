@@ -5,7 +5,7 @@ Heroku App Link  : https://cust-val-predict-kushagra.herokuapp.com/
 
 ## DEPLOYMENT OUTPUT 
 
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/clvout.png)
+![Screenshot (382)](https://user-images.githubusercontent.com/43815121/134033027-30c0184b-bdcd-4111-aca1-c8ad2829faa1.png)
 
 # Table Of Contents
 - [PROJECT GOAL](#PROJECT-GOAL)
