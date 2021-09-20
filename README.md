@@ -1,10 +1,6 @@
 #  CUSTOMER LIFE TIME VALUE PREDICTION
 <br>
 
-
-
-<br>
-
 Heroku App Link  : https://cust-val-predict-kushagra.herokuapp.com/
 
 ## DEPLOYMENT OUTPUT 
@@ -18,7 +14,6 @@ Heroku App Link  : https://cust-val-predict-kushagra.herokuapp.com/
 - [Technologies Used](#Technologies-Used)
 - [OLS REGRESSION MODEL OUTPUT](#OLS-REGRESSION-MODEL-OUTPUT)
 - [License](#License)
-- [Sample EDA VISUALIZATIONS](#Sample-EDA-VISUALIZATIONS)
 
 # PROJECT Description
 
