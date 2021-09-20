@@ -15,9 +15,11 @@ Heroku App Link  : https://cust-val-predict-kushagra.herokuapp.com/
 
 ![Screenshot (384)](https://user-images.githubusercontent.com/43815121/134034031-889521e4-28c6-4fd4-92c2-34e98a4ce28e.png)
 
+
 # Table Of Contents
 - [Project Description](#PROJECT-Description)
 - [Requirements Installation](#Requirements-Installation)
+- [Flowchart](#Flowchart)
 - [File Section](#File-Section)
 - [Technologies Used](#Technologies-Used)
 - [OLS REGRESSION MODEL OUTPUT](#OLS-REGRESSION-MODEL-OUTPUT)
@@ -33,6 +35,10 @@ Heroku App Link  : https://cust-val-predict-kushagra.herokuapp.com/
 **The Code is written in Python 3.7. If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository**
 
     pip install -r requirements.txt
+    
+# Flowchart
+
+![image](https://user-images.githubusercontent.com/43815121/134037311-3db73c98-61dc-400e-898e-95d0304adb5e.png)
     
 # File Section
 
