@@ -3,12 +3,20 @@
 
 Heroku App Link  : https://cust-val-predict-kushagra.herokuapp.com/
 
-## DEPLOYMENT OUTPUT 
+## Relevant ScreenShots
 
 ![Screenshot (382)](https://user-images.githubusercontent.com/43815121/134033027-30c0184b-bdcd-4111-aca1-c8ad2829faa1.png)
 
+# Taking Input
+
+![Screenshot (383)](https://user-images.githubusercontent.com/43815121/134033907-10e2986f-b5dd-4f69-88e0-ceeefe60608d.png)
+
+# Output
+
+![Screenshot (384)](https://user-images.githubusercontent.com/43815121/134034031-889521e4-28c6-4fd4-92c2-34e98a4ce28e.png)
+
 # Table Of Contents
-- [PROJECT GOAL](#PROJECT-GOAL)
+- [Project Description](#PROJECT-Description)
 - [Requirements Installation](#Requirements-Installation)
 - [File Section](#File-Section)
 - [Technologies Used](#Technologies-Used)
